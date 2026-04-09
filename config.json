@@ -1,11 +1,6 @@
 {
     "cache_time": 7200,
     "api_site": {
-        "heimuer": {
-            "api": "https://json.heimuer.xyz",
-            "name": "黑木耳",
-            "detail": "https://heimuer.tv"
-        },
         "ffzy": {
             "api": "http://ffzy5.tv",
             "name": "非凡影视",
